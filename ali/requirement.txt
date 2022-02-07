@@ -1,0 +1,14 @@
+ipyumbrella
+exdec
+pandasql
+scikit-learn==1.0.2
+compress_pickle
+keras_tqdm
+tensorflow
+tensorflow_addons
+tables
+xlrd
+openpyxl
+statsmodels
+matplotlib>=3.5
+arff2pandas

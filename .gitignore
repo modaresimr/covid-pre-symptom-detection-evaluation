@@ -1,0 +1,10 @@
+*.pyc
+output
+*.csv
+*.json
+__pycache__
+*.zip
+*.xlsx
+*-checkpoint.ipynb
+ali/methods/**/*.pdf
+ali/methods/**/*.png
